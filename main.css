@@ -1,3 +1,32 @@
-h1 {
-    color: red;
-}
+h1{
+    color:RGB(89.8, 100, 100);
+  }
+  body{
+    max-width: 5500px;
+    margin: 0 auto;
+    background: url("http://www.zingerbug.com/Backgrounds/background_images/black_stucco_wall_texture_seamless.jpg");
+    color:RGB(255,255,240); 
+  }
+  
+  section{
+    text-align:center;
+  }
+  
+  img{
+   width:500px;
+    margin:0 auto;
+    
+  }
+  h1 {
+      font-family: 'Quattrocento', serif;
+    text-align:center;
+      
+  }
+  
+  p {
+      font-family: 'Sarabun', sans-serif;
+  }
+  footer{
+    text-align:right;
+  
+  
